@@ -1,7 +1,8 @@
 ### Olá! Eu sou Matheus Proença  👋
 
 - 🔭 Atualmente estou estudando front-end
-- 🌱 Atualmente estou aprendendo com a Trybe | Analise e Desenvolvimento de Sistemas
+- 🌱 Atualmente estou aprendendo com a Trybe 
+- 🌱 Fazendo faculdade de Analise e Desenvolvimento de Sistemas - 2 Semestre.
 
 ##
 
