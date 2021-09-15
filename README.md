@@ -3,7 +3,6 @@
 - 🔭 Atualmente estou estudando front-end
 - 🌱 Atualmente estou aprendendo com a Trybe 
 - 🌱 Fazendo faculdade de Analise e Desenvolvimento de Sistemas - 2 Semestre.
-- Email: <div><a href="mailto:mproenca.marketing@gmail.com"></div>
 
 ##
 
