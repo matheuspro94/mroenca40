@@ -1,7 +1,7 @@
 ### Olá! Eu sou Matheus Proença  👋
 
 - 🔭 Formado em Front-End pela Trybe
-- 🌱 Atualmente estou aprendendo Back-End - MySql
+- 🌱 Atualmente estou aprendendo Back-End - MySql, MongoDB e NodeJS.
 - 🌱 Atualmente estou aprendendo com a Trybe
 - 🌱 Fazendo faculdade de Analise e Desenvolvimento de Sistemas - 2 Semestre.
 
