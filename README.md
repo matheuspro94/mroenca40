@@ -23,6 +23,9 @@
     <img align="center" alt="Matheus-Redux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
     <img align="center" alt="Matheus-Redux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
     <img align="center" alt="Matheus-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" alt="Matheus-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Matheus-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" alt="Matheus-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
   
   ##
