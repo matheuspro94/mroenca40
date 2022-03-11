@@ -1,5 +1,5 @@
-### Olá! Eu sou Matheus Proença  👋
-    Tenho 27 anos, casado, e fazendo transição de carreira saindo de vendedor, barbeiro e voluntário a profissional da área da tecnologia.
+### Olá! Eu sou Matheus Proença, tenho 27 anos, casado, e fazendo transição de carreira saindo da área de vendas, barbeiro e voluntário a profissional da área da tecnologia.  👋
+    
 - 🔭 Formado em FullStack pela Trybe
 - 🌱 Atualmente estou aprendendo Python.
 - 🌱 Atualmente estou aprendendo com a Trybe
