@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo Python.
 - 🌱 Atualmente estou aprendendo com a Trybe
 - 🌱 Cursando a faculdade de Analise e Desenvolvimento de Sistemas/FAESA - 3 Semestre.
-
+- Contato: (27) 999004863 / Email: mproenca.marketing@gmail.com
 ##
 
 <div>
