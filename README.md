@@ -1,9 +1,9 @@
 ### Olá! Eu sou Matheus Proença  👋
-
-- 🔭 Formado em Front-End pela Trybe
-- 🌱 Atualmente estou aprendendo Back-End - MySql, MongoDB e NodeJS.
+    Tenho 27 anos, casado, e fazendo transição de carreira saindo de vendedor, barbeiro e voluntário a profissional da área da tecnologia.
+- 🔭 Formado em FullStack pela Trybe
+- 🌱 Atualmente estou aprendendo Python.
 - 🌱 Atualmente estou aprendendo com a Trybe
-- 🌱 Fazendo faculdade de Analise e Desenvolvimento de Sistemas - 3 Semestre.
+- 🌱 Cursando a faculdade de Analise e Desenvolvimento de Sistemas/FAESA - 3 Semestre.
 
 ##
 
