@@ -1,8 +1,8 @@
 ### Olá! Eu sou Matheus Proença, tenho 27 anos, casado, e fazendo transição de carreira saindo da área de vendas, barbeiro e voluntário a profissional da área da tecnologia.  👋
     
-- 🔭 Formado em FullStack pela Trybe
-- 🌱 Atualmente estou aprendendo Python.
-- 🌱 Atualmente estou aprendendo com a Trybe
+- 🔭 Formado em FullStack pela Trybe;
+- 🌱 Atualmente estou aprendendo Java;
+- 🌱 Trybe Turma 12;
 - 🌱 Cursando a faculdade de Analise e Desenvolvimento de Sistemas/FAESA - 3 Semestre.
 - Contato: (27) 999004863 / Email: mproenca.marketing@gmail.com
 ##
